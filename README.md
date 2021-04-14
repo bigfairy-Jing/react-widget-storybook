@@ -14,3 +14,8 @@ cd <your project name>
 ```
 npx -p @storybook/cli sb init
 ```
+
+### 运行
+```shell
+npm run storybook
+```
