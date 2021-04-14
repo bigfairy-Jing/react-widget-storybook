@@ -1,0 +1,18 @@
+{
+  "name": "@react-widget-storybook/example",
+  "version": "1.0.0-beta.0",
+  "homepage": "",
+  "license": "ISC",
+  "main": "Button.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "echo \" do nothing\""
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2"
+  }
+}
