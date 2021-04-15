@@ -19,3 +19,22 @@ npx -p @storybook/cli sb init
 ```shell
 npm run storybook
 ```
+
+### 新增 && 发布
+1. 新增一个包
+```
+npx lerna create <name>
+```
+2. 填写包的内容
+3. link
+```
+npm run bootstrap
+``` 
+4. 发布 npm
+```
+npm run push
+```
+
+
+
+
