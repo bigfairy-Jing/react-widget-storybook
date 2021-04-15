@@ -20,7 +20,7 @@
     "storybook": "start-storybook -p 6006 -s public",
     "dev": "start-storybook -p 6006 -s public",
     "bootstrap": "npx lerna bootstrap",
-    "push": "npx lerna publish",
+    "push": "npx lerna publish from-package --yes",
     "build-storybook": "build-storybook -s public"
   },
   "eslintConfig": {

@@ -34,6 +34,8 @@ npm run bootstrap
 ```
 npm run push
 ```
+> 采用from-package 模式 每次发版本都需要变化版本号新增，
+> --yes 为自动一路选择
 
 
 
