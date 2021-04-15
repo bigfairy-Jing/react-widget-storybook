@@ -1,4 +1,4 @@
-### 一个基于react + storybook 搭建的 react 物料仓库
+### 一个基于react + storybook + lerna 搭建的 react 物料仓库 以及管理化发布npm模式
 
 ### 使用lerna 对包进行管理
 ### 搭建过程
@@ -13,7 +13,8 @@ cd <your project name>
 3. 添加storybook
 ```
 npx -p @storybook/cli sb init
-```
+```  
+......
 
 ### 运行
 ```shell
