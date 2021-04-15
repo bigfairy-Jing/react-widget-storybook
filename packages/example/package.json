@@ -1,12 +1,11 @@
 {
   "name": "example",
-  "version": "1.0.2",
+  "version": "1.0.0-beta.0",
   "description": "",
   "main": "Button.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "gitHead": "9152b1e474486e582e13c8704dcdcfc4c3eee085"
+  "license": "ISC"
 }
